@@ -27,9 +27,9 @@ Launch, Login, and Refresh
 
 <img src='https://media.giphy.com/media/glANXSAJQoAGRGTxzJ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Launch Screen display:
+Launch Screen:
 
-<img src='https://media.giphy.com/media/Rp8mpNCZC2Ch5lWus6/giphy.gif' title='Launch Screen' width='' alt='Launch Screen' />
+<img src='https://media.giphy.com/media/cHSa1psV2FIg0T5678/giphy.gif' title='Launch Screen' width='' alt='Launch Screen' />
 
 Infinite Scroll:
 
