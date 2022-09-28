@@ -26,5 +26,6 @@ Here's a walkthrough of implemented user stories:
 <img src='https://media.giphy.com/media/glANXSAJQoAGRGTxzJ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Launch Screen display:
+
 <img src='https://media.giphy.com/media/Rp8mpNCZC2Ch5lWus6/giphy.gif' title='Launch Screen' width='' alt='Launch Screen' />
 
