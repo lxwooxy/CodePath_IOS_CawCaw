@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Launch, Login, and Refresh
+App Icon, Launch, Login, and Refresh
 
 <img src='https://media.giphy.com/media/glANXSAJQoAGRGTxzJ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
