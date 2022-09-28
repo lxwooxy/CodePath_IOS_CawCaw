@@ -31,6 +31,11 @@ Launch Screen:
 
 <img src='https://media.giphy.com/media/cHSa1psV2FIg0T5678/giphy.gif' title='Launch Screen' width='' alt='Launch Screen' />
 
+
+Staying logged in:
+
+<img src='https://media.giphy.com/media/XVgRhsrXR6yiObBYNZ/giphy.gif' title='Staying logged in' width='' alt='Staying logged in' />
+
 Infinite Scroll:
 
 <img src='https://media.giphy.com/media/8TeRwOISXFmmzpfSas/giphy.gif' title='Infinite Scroll' width='' alt='Infinite Scroll' />
