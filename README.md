@@ -24,13 +24,13 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-Launch Screen:
+App Icon and Launch Screen:
 
-<img src='https://media.giphy.com/media/cHSa1psV2FIg0T5678/giphy.gif' title='Launch Screen' width='' alt='Launch Screen' />
+<img src='https://media.giphy.com/media/cHSa1psV2FIg0T5678/giphy.gif' title='Launch' width='' alt='Launch' />
 
-App Icon, Launch, Login, and Refresh
+Login and Refresh
 
-<img src='https://media.giphy.com/media/glANXSAJQoAGRGTxzJ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/glANXSAJQoAGRGTxzJ/giphy.gif' title='Walkthrough' width='' alt='Walkthrough' />
 
 Staying logged in:
 
