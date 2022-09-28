@@ -23,9 +23,18 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+Launch, Login, and Refresh
+
 <img src='https://media.giphy.com/media/glANXSAJQoAGRGTxzJ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Launch Screen display:
 
 <img src='https://media.giphy.com/media/Rp8mpNCZC2Ch5lWus6/giphy.gif' title='Launch Screen' width='' alt='Launch Screen' />
 
+Infinite Scroll:
+
+<img src='https://media.giphy.com/media/8TeRwOISXFmmzpfSas/giphy.gif' title='Infinite Scroll' width='' alt='Infinite Scroll' />
+
+Logout:
+
+<img src='https://media.giphy.com/media/SeddaRXbEWKIpTLprC/giphy.gif' title='Logout' width='' alt='Logout' />
